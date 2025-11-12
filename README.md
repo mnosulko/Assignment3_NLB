@@ -27,4 +27,4 @@ and a new record is inserted with the updated rating and a new start_date.
 
 
 Team: assig_LBM  
-Member: Mariia Nosulko, Tanya Lanina, Maryna Bondar
+Members: Mariia Nosulko, Tanya Lanina, Maryna Bondar
